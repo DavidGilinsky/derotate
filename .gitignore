@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio user state
+.vs/
+*.user
+*.suo
+
+# Local tooling caches
+.claude/
+.qodo/
+
+# Test-time FITS captures (remove this rule if you want to commit samples)
+New folder/
+New folder (2)/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
